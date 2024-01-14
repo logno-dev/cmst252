@@ -8,21 +8,14 @@ Date: 2024-1-13
 
 For Exercises 1-10, choose from the following list of people:
 
-A. Leibniz
-
-B. Pascal
-
-C. Babbage
-
-D. Lovelace
-
-E. Hollerith
-
-F. Byron
-
-G. Turing
-
-H. Jacquard
+- A. Leibniz
+- B. Pascal
+- C. Babbage
+- D. Lovelace
+- E. Hollerith
+- F. Byron
+- G. Turing
+- H. Jacquard
 
 1. What French mathematician built and sold the first gear-driven mechanical machine that did addition and subtraction?
    - B. Pascal
