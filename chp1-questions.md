@@ -6,20 +6,20 @@ Professor: Tim Bower
 Date: 2024-1-13
 ---
 
-For Excercises 1-10, choose from the following list of people:
-A. Leibniz
-B. Pascal
-C. Babbage
-D. Lovelace
-E. Hollerith
-F. Byron
-G. Turing
-H. Jacquard
+For Exercises 1-10, choose from the following list of people:
+
+a. Leibniz
+b. Pascal
+c. Babbage
+d. Lovelace
+e. Hollerith
+f. Byron
+g. Turing
+h. Jacquard
 
 1. What French mathematician built and sold the first gear-driven mechanical machine that did addition and subtraction?
    - B. Pascal
-2. Who built the first mechanical machine that did addition, subtraction multiplication, and division?
-   -
+2. ## Who built the first mechanical machine that did addition, subtraction multiplication, and division?
 3. Who designed the first mechanical machine that included memory?
    - C. Babbage
 4. Who was considered the first programmer?
