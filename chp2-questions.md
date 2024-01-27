@@ -1,6 +1,6 @@
 ---
 Name: Logan Bunch
-Assignment: Chapter 1 Textbook Questions
+Assignment: Chapter 2 Textbook Questions
 Class: CMST252
 Professor: Tim Bower
 Date: 2024-01-27
