@@ -79,7 +79,7 @@ For exercises 6-11, math the solution with the problem.
 - e. 6.2
   > rational
 - f. pi
-  > > none of the above (irrational)
+  > none of the above (irrational)
 
 23. Convert the following numbers from the be base shown to base 10
 
