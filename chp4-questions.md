@@ -57,31 +57,31 @@ For Exercises 18-29, match the gate with the description of the operation or the
 43. Give the Boolean expression for a three-input AND gate, and then show its behavior with a truth table.
 > A x B x C
 
-| A    | B    | C    | X    |
-| ---------------- | --------------- | --------------- | --------------- |
-| 0    | 0    | 0    | 0    |
-| 0    | 0   | 1   | 0   |
-| 0   | 1   | 0   | 0   |
-| 0 | 1   | 1   | 0   |
-| 1 | 0   | 0   | 0   |
-| 1 | 0   | 1   | 0   |
-| 1 | 1   | 0   | 0   |
-| 1 | 1   | 1   | 1   |
+| A | B | C | X |
+| - | - | - | - |
+| 0 | 0 | 0 | 0 |
+| 0 | 0 | 1 | 0 |
+| 0 | 1 | 0 | 0 |
+| 0 | 1 | 1 | 0 |
+| 1 | 0 | 0 | 0 |
+| 1 | 0 | 1 | 0 |
+| 1 | 1 | 0 | 0 |
+| 1 | 1 | 1 | 1 |
 
 
 44. Give the Boolean expression for a three-input OR gate, and then show its behavior with a truth table.
 > A + B + C
 
-| A    | B    | C    | X    |
-| ---------------- | --------------- | --------------- | --------------- |
-| 0    | 0    | 0    | 0    |
-| 0    | 0   | 1   | 1   |
-| 0   | 1   | 0   | 1   |
-| 0 | 1   | 1   | 1   |
-| 1 | 0   | 0   | 1   |
-| 1 | 0   | 1   | 1   |
-| 1 | 1   | 0   | 1   |
-| 1 | 1   | 1   | 1   |
+| A | B | C | X |
+| - | - | - | - |
+| 0 | 0 | 0 | 0 |
+| 0 | 0 | 1 | 1 |
+| 0 | 1 | 0 | 1 |
+| 0 | 1 | 1 | 1 |
+| 1 | 0 | 0 | 1 |
+| 1 | 0 | 1 | 1 |
+| 1 | 1 | 0 | 1 |
+| 1 | 1 | 1 | 1 |
 
 46. How does transistor behave?
 > A transistor will either, depending on the voltage  level of the input signal, act as a wire that conducts electricity or as a resistor that blocks the flow of electricity.
