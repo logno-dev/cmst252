@@ -56,6 +56,7 @@ For Exercises 18-29, match the gate with the description of the operation or the
 
 43. Give the Boolean expression for a three-input AND gate, and then show its behavior with a truth table.
 > A x B x C
+
 | A    | B    | C    | X    |
 |---------------- | --------------- | --------------- | --------------- |
 | 0    | 0    | 0    | 0    |
