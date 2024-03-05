@@ -90,6 +90,7 @@ For Exercises 18-29, match the gate with the description of the operation or the
 ![](images/chp4dia_q55.png)
 
 56. Draw a circuit diagram corresponding to the following Boolean expressions: (AB + C)D
+![](images/chp4dia_q56.png)
 
 59. Show the behavior of the following circuit with a truth table: _image_
 
