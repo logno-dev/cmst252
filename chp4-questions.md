@@ -87,7 +87,7 @@ For Exercises 18-29, match the gate with the description of the operation or the
 > A transistor will either, depending on the voltage  level of the input signal, act as a wire that conducts electricity or as a resistor that blocks the flow of electricity.
 
 55. Draw a circuit diagram corresponding to the following Boolean expressions: (A + B)(B + C)
-<img src="chp4dia_q55.png">
+![](images/chp4dia_q55.png)
 
 56. Draw a circuit diagram corresponding to the following Boolean expressions: (AB + C)D
 
