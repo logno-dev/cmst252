@@ -93,11 +93,37 @@ For Exercises 18-29, match the gate with the description of the operation or the
 ![](images/chp4dia_q56.png)
 
 59. Show the behavior of the following circuit with a truth table: _image_
+> AB + (A + B)
+
+| A | B | AB | A + B | AB + (A +B) |
+| - | - | -- | ----- | ----------- |
+| 0 | 0 | 0  | 0     | 0           |
+| 0 | 1 | 0  | 1     | 1           |
+| 1 | 0 | 0  | 1     | 1           |
+| 1 | 1 | 1  | 1     | 1           |
 
 62. Show the behavior of the following circuit with a truth table: _image_
+> (AB + C')' + (BC)'
+
+| A | B | C | AB | C' | AB + C' | (BC)' | (AB + C')' + (BC)' |
+| - | - | - | -- | -- | ------- | ----- | ------------------ |
+| 0 | 0 | 0 | 0  | 1  | 1       | 1     | 1                  |
+| 0 | 0 | 1 | 0  | 0  | 0       | 1     | 1                  |
+| 0 | 1 | 0 | 0  | 1  | 1       | 1     | 1                  |
+| 0 | 1 | 1 | 0  | 0  | 0       | 0     | 0                  |
+| 1 | 0 | 0 | 0  | 1  | 1       | 0     | 1                  |
+| 1 | 0 | 1 | 0  | 0  | 0       | 1     | 1                  |
+| 1 | 1 | 0 | 1  | 1  | 1       | 1     | 1                  |
+| 1 | 1 | 1 | 1  | 0  | 1       | 0     | 1                  |
 
 63. What is circuit equivalence?
+> When two circuits produce exactly the same output for each input value combination.
 
-68. a. Circuits used for memore are what type of circuits?
+68. a. Circuits used for memory are what type of circuits?
+> sequential circuits
+
     b. How many digits does an S-R latch store?
-    c. The design fo an S-R shown in Figure 4.12 guarantees what about the outputs X and Y?
+> a single binary digit
+
+    c. The design for an S-R shown in Figure 4.12 guarantees what about the outputs X and Y?
+> They are always compliments of each other.
