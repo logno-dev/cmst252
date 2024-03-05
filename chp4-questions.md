@@ -119,11 +119,14 @@ For Exercises 18-29, match the gate with the description of the operation or the
 63. What is circuit equivalence?
 > When two circuits produce exactly the same output for each input value combination.
 
-68. a. Circuits used for memory are what type of circuits?
+68. 
+
+- a. Circuits used for memory are what type of circuits?
 > sequential circuits
 
-    b. How many digits does an S-R latch store?
+- b. How many digits does an S-R latch store?
 > a single binary digit
 
-    c. The design for an S-R shown in Figure 4.12 guarantees what about the outputs X and Y?
+- c. The design for an S-R shown in Figure 4.12 guarantees what about the outputs X and Y?
 > They are always compliments of each other.
+
