@@ -64,6 +64,7 @@ Date: 2024-4-15
 
 39. List the steps in the fetch-execute cycle.
 
+
    1. Fetch
    2. Decode
    3. Execute
