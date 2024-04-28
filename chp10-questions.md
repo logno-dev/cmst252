@@ -20,6 +20,8 @@ Date: 2024-4-26
 
 59. If the frame size is 1024, what is the physical address associated with the logical address <3,555>?
 
+> 3 \* 1024 + 555 = 3627
+
 60. What is a process control block?
 
 > A process control block is a data structure used by an operating system to store all the information about a process.
